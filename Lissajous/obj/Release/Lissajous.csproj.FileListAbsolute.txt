@@ -1,0 +1,10 @@
+C:\Study\2\Physics\Lissajous\Lissajous\bin\Release\Lissajous.exe.config
+C:\Study\2\Physics\Lissajous\Lissajous\bin\Release\Lissajous.exe
+C:\Study\2\Physics\Lissajous\Lissajous\bin\Release\Lissajous.pdb
+C:\Study\2\Physics\Lissajous\Lissajous\obj\Release\Lissajous.csprojAssemblyReference.cache
+C:\Study\2\Physics\Lissajous\Lissajous\obj\Release\Lissajous.Form1.resources
+C:\Study\2\Physics\Lissajous\Lissajous\obj\Release\Lissajous.Properties.Resources.resources
+C:\Study\2\Physics\Lissajous\Lissajous\obj\Release\Lissajous.csproj.GenerateResource.cache
+C:\Study\2\Physics\Lissajous\Lissajous\obj\Release\Lissajous.csproj.CoreCompileInputs.cache
+C:\Study\2\Physics\Lissajous\Lissajous\obj\Release\Lissajous.exe
+C:\Study\2\Physics\Lissajous\Lissajous\obj\Release\Lissajous.pdb

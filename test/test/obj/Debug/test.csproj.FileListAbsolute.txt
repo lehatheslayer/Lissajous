@@ -1,0 +1,6 @@
+C:\Users\Admistrator\Desktop\Lissajous\test\test\bin\Debug\test.exe
+C:\Users\Admistrator\Desktop\Lissajous\test\test\bin\Debug\test.pdb
+C:\Users\Admistrator\Desktop\Lissajous\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Admistrator\Desktop\Lissajous\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Admistrator\Desktop\Lissajous\test\test\obj\Debug\test.exe
+C:\Users\Admistrator\Desktop\Lissajous\test\test\obj\Debug\test.pdb
